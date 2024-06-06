@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Goats Website: Welcome to the website about the GOATS
 ---
 
